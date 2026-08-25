@@ -1,0 +1,25 @@
+{
+  "name": "hannnn125",
+  "version": "1.0.0",
+  "description": "![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&aColor=%23ff9e64) ## Hi there 👋 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00F758&background=000000&center=true&vCenter=true&width=435&lines=+Welcome+to+hannn125's+Github!)](https://git.io/typing-svg)   <source media=\"(prefers-color-scheme: dark)\" srcset=\"dark_mode.svg\" />   <source media=\"(prefers-color-scheme: light)\" srcset=\"light_mode.svg\" />   <img alt=\"hannnn125's GitHub profile\" src=\"dark_mode.svg\" /> <!-- START_SECTION:waka --> <!-- END_SECTION:waka --> ``` ╭─╮╷ ╷╭─╮╭─╮╭─╴╷╶┬╴╶┬╴╷╭╮╷╭─╴ │ ││╭╯╶─┤├─╮├╴ │ │  │ ││╰┤│╶╮ ╰─╯╰╯ ╰─╯╰─╯╵  ╵ ╵  ╵ ╵╵ ╵╰─╯ ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node readmeUpdate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hannnn125/hannnn125.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/hannnn125/hannnn125/issues"
+  },
+  "homepage": "https://github.com/hannnn125/hannnn125#readme",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
