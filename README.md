@@ -38,25 +38,9 @@
 
 --- 
 
-### 🌱 Blog Posting 
+### 🌱 Blog Posting
 
+- [Stanford CS224N | Lecture 6 LSTM RNNs and Neural Machine Translation](https://mo0nh7.tistory.com/30)
+- [Stanford CS224N | Lecture 5 Language Models and Recurrent Neural Networks](https://mo0nh7.tistory.com/28)
+- [Stanford CS224N | Lecture 4 Dependency Parsing](https://mo0nh7.tistory.com/27)
 
-
----
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&aColor=%23ff9e64" alt="Jokes Card" />
-</p>
-<!--
-**hannnn125/hannnn125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00F758&background=000000&center=true&vCenter=true&width=435&lines=+Welcome+to+hannn125's+Github!)](https://git.io/typing-svg)
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
