@@ -40,7 +40,7 @@
 
 ### 🌱 Blog Posting
 
+- [[Github] 깃허브 프로필 꾸미기 A to Z](https://mo0nh7.tistory.com/32)
 - [[Stanford CS224N] Lecture 7 Attention](https://mo0nh7.tistory.com/31)
 - [[Stanford CS224N] Lecture 6 LSTM RNNs and Neural Machine Translation](https://mo0nh7.tistory.com/30)
-- [[Stanford CS224N] Lecture 5 Language Models and Recurrent Neural Networks](https://mo0nh7.tistory.com/28)
 
