@@ -40,7 +40,7 @@
 
 ### 🌱 Blog Posting
 
+- [[Stanford CS224N] Lecture 8 Transformers](https://mo0nh7.tistory.com/34)
 - [macOS Tahoe 업데이트 후 인터넷 연결안됨 문제](https://mo0nh7.tistory.com/33)
 - [[Github] 깃허브 프로필 꾸미기 A to Z](https://mo0nh7.tistory.com/32)
-- [[Stanford CS224N] Lecture 7 Attention](https://mo0nh7.tistory.com/31)
 
