@@ -7,7 +7,7 @@
  - Conversational AI
  - Multimodal learning
 
-[![Gmail](https://img.shields.io/badge/Gmail-d14836?&logo=Gmail&logoColor=white&link=hyunyounge00@gmail.com)](mailto:hyunyounge00@gmail.com) [![Notion](https://img.shields.io/badge/Notion-000?&logo=notion&logoColor=fff)](https://app.notion.com/p/Hyun-Young-Moon-s-Notion-33b1041e210c803aacdcebb30895137f?source=copy_link) [![Tistory](https://img.shields.io/badge/tistory-EB531F?&logo=tistory&logoColor=white)](https://mo0nh7.tistory.com/) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](in/hyun-young-moon-223897327) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=Google%20Scholar&logoColor=white)](#) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?&logo=Gmail&logoColor=white&link=hyunyounge00@gmail.com)](mailto:hyunyounge00@gmail.com) [![Notion](https://img.shields.io/badge/Notion-000?&logo=notion&logoColor=fff)](https://app.notion.com/p/Hyun-Young-Moon-s-Notion-33b1041e210c803aacdcebb30895137f?source=copy_link) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](in/hyun-young-moon-223897327) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=Google%20Scholar&logoColor=white)](#) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](#)
 
 ---
 <p align="center">
